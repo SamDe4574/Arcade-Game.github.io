@@ -13,7 +13,7 @@ Use the arrow keys to move the character up, down, right and left. Once you reac
 
 OR
 
-* Visit this link :<a href="#">ARCADE GAME</a>
+* Visit this link :<a href="https://samde4574.github.io/Arcade-Game.github.io/index.html">ARCADE GAME</a>
 
 -------------------------------------------------------
 
